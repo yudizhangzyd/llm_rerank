@@ -10,8 +10,11 @@
 For the integration of low-frequency information and mid-frequency information, we provide four versions corresponding to the ablation study part of the paper.
 
 Example of training, need to update the model layers to one of below in model.py
+
 scomgnn: Item_Graph_Convolution 
+
 Gat: Item_Graph_Convolution
+
 GraphSage: Item_Graph_Convolution
 
 ```
